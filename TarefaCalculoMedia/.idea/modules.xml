@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_classes.iml" filepath="$PROJECT_DIR$/Exercicio_classes.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/TarefaCalculoMedia.iml" filepath="$PROJECT_DIR$/TarefaCalculoMedia.iml" />
+>>>>>>> 120db89 (media)
+    </modules>
+  </component>
+</project>
