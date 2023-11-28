@@ -25,5 +25,17 @@ public class ConsoleInput {
         System.out.println("------------------------------------------");
 
         insert.close();
+
+
+
+        // Criando uma variavel do tipo primitivo
+
+        double Idade = 40;
+
+
+
+        // Convertendo para wrapper
+
+        double wrapperIdade = idade;
     }
 }
