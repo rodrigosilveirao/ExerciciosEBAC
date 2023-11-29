@@ -30,12 +30,12 @@ public class ConsoleInput {
 
         // Criando uma variavel do tipo primitivo
 
-        double Idade = 40;
+        int Idade = 40;
 
 
 
         // Convertendo para wrapper
 
-        double wrapperIdade = idade;
+        Integer wrapperIdade = idade;
     }
 }
