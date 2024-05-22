@@ -1,16 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
 
-<<<<<<< HEAD
-        System.out.println("Livro");
-        Livro Livro = new Livro();
-        Livro.setTitulo("condifada");
-        Livro.setAutor("eu");
-        Livro.setNumeroDePaginas(16);
-        Livro.exibirInfo();
-    }
-}
-=======
         System.out.println("Hello world!");
 
         int nota1 = 10;
@@ -27,4 +16,3 @@ public class Main {
     }
 }
 
->>>>>>> 120db89 (media)
